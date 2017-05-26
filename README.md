@@ -1,0 +1,2 @@
+# automaticpublishall.lrdevplugin
+Lightroom Plugin to allow automatic publishing of all publish services. It runs every 5 seconds and publishes every collection. For myself, I do all of my edits to a photo, then mark the photo as 5*'s which is when the photo is ready for publishing. So this plugin will then ensure that all of the new unpublished photos get published with no further user interaction.
